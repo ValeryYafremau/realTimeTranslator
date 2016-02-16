@@ -1,0 +1,23 @@
+#WidgetFloaterPanels {
+	display: none !important;
+}
+.result {
+	background-color: black;
+	color: white; 
+	font-size: 50; 
+	padding: 20px;
+}
+.canvasViewport {
+	width: 600px;
+	height: 10px;
+}
+.uploadedImage {
+	display: block;
+	margin-left: auto; 
+	margin-right: auto
+}
+.translateButton {
+	color: white;
+	background-color: #555555;
+	opacity: 0;
+}
